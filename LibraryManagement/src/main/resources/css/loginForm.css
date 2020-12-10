@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+.myDiv{
+	
+	border: 5px outset red;
+	margin:auto;
+	width: 800px;
+	
+ 	 background-color: lightblue;    
+  	text-align: center;
+  	align:center;
+}
+h2{
+	color: black;
+	font-family: verdana;
+    font-size: 20px;
+}
